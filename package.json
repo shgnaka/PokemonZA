@@ -1,0 +1,17 @@
+{
+    "name": "colorTest",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "index.js",
+    "scripts": {
+      "dev": "react-scripts start",
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      // Your dependencies here
+    },
+    "devDependencies": {
+      // Your dev dependencies here
+    }
+  }
