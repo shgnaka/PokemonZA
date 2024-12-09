@@ -1,15 +1,16 @@
 public class cognitiveScience09ExhaustiveSearch {
 
     public static void main(String[] args) {
-        int contactWithFive, 
-            contactWithFourFst, 
-            contactWithFourSec, 
-            contactWithFourThrd,
-            contactWithThreeFst,
-            contactWithThreeSec,
-            contactWithThreeThrd,
-            contactWithThreeFrth,
-            contactWithThreeFif,
-            contactWithTwo;
+        long nodeContactWithFive, 
+            nodeContactWithFourFst, 
+            nodeContactWithFourSec, 
+            nodeContactWithFourThrd,
+            nodeContactWithThreeFst,
+            nodeContactWithThreeSec,
+            nodeContactWithThreeThrd,
+            nodeContactWithThreeFrth,
+            nodeContactWithThreeFif,
+            nodeContactWithTwo;
+        long subtractionNodeContactWithFiveFromnodeContactWithFourFst = (nodeContactWithFive - nodeContactWithFourFst) * (nodeContactWithFive - nodeContactWithFourFst);
     }
 }
