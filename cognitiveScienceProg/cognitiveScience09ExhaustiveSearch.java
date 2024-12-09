@@ -28,5 +28,26 @@ public class cognitiveScience09ExhaustiveSearch {
         long subtractn8fromn9 = (node[7] - node[8]) * (node[7] - node[8]);
 
         long subtractn9fromn10 = (node[8] - node[9]) * (node[8] - node[9]);
+
+        long sum = subtractn1fromn2 + 
+        sutractn1fromn3 + 
+        subtractn1fromn6 + 
+        subtractn1fromn7 + 
+        subtractn1fromn8 + 
+        subtractn2fromn3 + 
+        subtractn2fromn4 + 
+        subtractn1fromn9 + 
+        subtractn3fromn4 + 
+        subtractn3fromn5 + 
+        subtractn4fromn5 + 
+        subtractn4fromn10 + 
+        subtractn5fromn6 + 
+        subtractn6fromn7 + 
+        subtractn7fromn8 + 
+        subtractn8fromn1 + 
+        subtractn8fromn9 + 
+        subtractn9fromn10;
     }
+
+    pulic long 
 }
